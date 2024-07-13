@@ -1,0 +1,14 @@
+#!/bin/bash
+# A simple startup script - one click run. 
+# Remember that a Profile if set will be used, otherwise it will create new profile of the given name.
+# .vscode/settings.json is assumed to be available otherwise default settings are employed
+# if readme or $1 is not already created then upon opening will start editor in new file.
+# Code-insiders version is set. May consider this to be an option.
+# Ive not decided on how to soft code the myProject variable. This may be excuted from anywhere and by any user.
+set -o nounset
+myProject="docker"
+readme="README.md" 
+dir=${0%/*}
+
+code-insiders --profile $myProject $dir/ $dir/$readme 
+
