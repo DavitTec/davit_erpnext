@@ -1,28 +1,35 @@
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/davittec/davit_docker?label=version&logo=davit&sort=semver&style=for-the-badge)
+# CHANGELOG
+![GitHub tag](https://img.shields.io/github/v/tag/davittec/davit_erpnext?label=version)
 
-<a name="0.0.1-alpha"></a>
-![GitHub Release](https://img.shields.io/github/v/release/davittec/davit_docker)
+---
 
+## TODO
 
+- Docs
+- fix
+- feat
 
+---
 
-# 0.0.2 (2023-08-12)
-| Commit  | Type   | Description                                 | src                                         |
-| ------- | ------ | ------------------------------------------- |--------------------------------------------:|
-| [0.0.5 ](#005)  |  fix   | a few minor fixes and made this active   |                                             |
-| 0.0.4   |  add   | add tubeit.json.sh as a temp script @ToDo   |                                             |
-| 0.0.3   |  add   |                                             |                                             |
-| 0.0.2   |  add   |                                             |                                             |
-| 0.0.1   |  add   | First release -inital commit                |                                             |
+## Summary
 
-<!-- CHANGELOG SPLIT MARKER -->
+| Commit  | Type   | Description                                 | Source                                    |
+| ------- | ------ | ------------------------------------------- |:--------------------------------------------|
+| [0.0.3 ](#003)  |  --|    ----   |          |
+| [0.0.2 ](#002)  |  --| [See ToDo](#todo) |          |
+| [0.0.1 ](#001)  |  add   | General initialisation  | [0.0.1](https://github.com/DavitTec/davit_erpnext/releases/tag/0.0.1)         |
 
+## [0.0.1](https://github.com/DavitTec/davit_erpnext/releases/tag/0.0.1)
 
-## 0.0.1
+- [0.0.1 ](#001) General initialisation
+    - Initial Setup
+    - add  initial files and README.md
 
-# Reference
+---
 
-## Commit TYPES
+##  Reference
+
+## Commit Types
 
 |Type   |alternate |Description                  |
 | ------|--------- |---------------------------- |
@@ -49,10 +56,6 @@
     -   Special Thanks
     -   localisation-service
     -   service-worker
-
-## Deprecations
-
-
 
 <!-- 
 

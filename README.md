@@ -1,8 +1,8 @@
 # DAVIT ERPNEXT
  about [Frappe](https://github.com/frappe/frappe) and [ERPNext](https://github.com/frappe/erpnext) in containers.
 
-![GitHub tag](https://img.shields.io/github/v/tag/davittec/david_erpnext?label=version)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/davittec/david_erpnext)
+![GitHub tag](https://img.shields.io/github/v/tag/davittec/davit_erpnext?label=version)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/davittec/davit_erpnext)
 
 
 
@@ -21,10 +21,11 @@ General Documentation
 Start by cloning this repository
 
 ```bash
-git clone https://github.com/DavitTec/david_erpnext.git
-cd frappe_docker
+git clone https://github.com/DavitTec/davit_erpnext.git
+
 ```
 
 
+## [Changelog](CHANGELOG.md)
 
-[Changelog](CHANGELOG.md)
+## References

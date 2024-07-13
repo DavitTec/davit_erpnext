@@ -1,0 +1,6 @@
+README.md
+LICENSE
+.gitignore
+compose*.yaml
+.vscode
+.github
