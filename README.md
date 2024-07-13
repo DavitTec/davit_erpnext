@@ -20,7 +20,7 @@ General Documentation
 Start by cloning this repository
 
 ```bash
-git clone https://github.com/frappe/frappe_docker
+git clone https://github.com/DavitTec/david_erpnext.git
 cd frappe_docker
 ```
 
